@@ -90,3 +90,6 @@ input[name="r"] {
 #r10:checked ~ .s1{
     margin-left: -90%;
 }
+.discription{
+    width: 100px;
+}
